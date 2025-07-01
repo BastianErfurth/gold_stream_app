@@ -62,7 +62,6 @@ class _GoldScreenState extends State<GoldScreen> {
                     );
                   }
                   // Default fallback widget if none of the above conditions are met
-                  return SizedBox.shrink();
                 },
               ),
             ],
